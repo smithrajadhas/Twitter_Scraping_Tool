@@ -23,5 +23,5 @@
 
    •	**Pillow**
 
-              •	**Numpy**
+   •	**Numpy**
 
