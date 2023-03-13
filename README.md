@@ -2,26 +2,26 @@
 
 **Approach:**
 
-          •	**Scrape** the data from **Twitter** using a **Keyword** with a specific count of tweets.
+   •	**Scrape** the data from **Twitter** using a **Keyword** with a specific count of tweets.
 
-          •	**Create a Dataframe** with date, id, url, tweet content, user, reply count, retweet count, language, source, like count.
+   •	**Create a Dataframe** with date, id, url, tweet content, user, reply count, retweet count, language, source, like count.
 
-          •	**Store** each collection of data into a document into **MongoDB Database**.
+   •	**Store** each collection of data into a document into **MongoDB Database**.
 
-          •	**Create a GUI** using **Streamlit** library with an option to **Download** the scraped data in **CSV** & **JSON** formats.
+   •	**Create a GUI** using **Streamlit** library with an option to **Download** the scraped data in **CSV** & **JSON** formats.
 
 
 **Libraries Used:**
 
-              •	**Snscrape**
+   •	**Snscrape**
 
-              •	**Pandas**
+   •	**Pandas**
 
-              •	**Streamlit**
+   •	**Streamlit**
 
-              •	**Pymongo**
+   •	**Pymongo**
 
-              •	**Pillow**
+   •	**Pillow**
 
               •	**Numpy**
 
